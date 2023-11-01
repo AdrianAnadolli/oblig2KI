@@ -9,3 +9,4 @@ En klassifiseringsalgoritme er en algoritme vi bruker til å klassifisere eller 
 En eksempel på en klassifiseringsalgoritme er algoritmer som identifierer spam eposter. 
 En regresjonsalgoritme er en algoritme vi bruker til å analysere og fortutsi utviklingen av en verdi basert på tidligere resultater.
 
+I denne oppgaven har jeg forutsagt prisen på tesla aksjene for neste dag. Dette har jeg fått til med en Prediction Score av 0.9998 og en RMSE verdi på 2.71. 
